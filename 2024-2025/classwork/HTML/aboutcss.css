@@ -1,0 +1,22 @@
+div{border:1px black solid;
+padding:30px;
+}
+#first {
+    background-color: blue;width:500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+    #second {
+        background-color: red;
+    }
+#third {
+    background-color: orange;
+}
+    #fourth {
+        background-color: green;
+    }
+        #fifth{
+            background-color:yellow;
+        }
+
+
