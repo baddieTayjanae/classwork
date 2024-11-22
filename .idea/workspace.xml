@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="starting my portfullio" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;baddieTayjanae&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/baddieTayjanae/classwork.git&quot;,
+    &quot;accountId&quot;: &quot;3908ecf1-bbe3-41c4-9758-3da24f4630b0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ltEPdwCgtExO3ga4bxPl9ifApb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.csstest.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.vocab.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/367276/PhpstormProjects/classwork/.idea&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2024-2025/classwork/HTML/operations" />
+      <recent name="$PROJECT_DIR$/2023-2024" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
+        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="" />
+      <created>1725990949673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725990949673</updated>
+      <workItem from="1725990950715" duration="5000" />
+      <workItem from="1725990963687" duration="368000" />
+      <workItem from="1726077639680" duration="572000" />
+      <workItem from="1726078217047" duration="325000" />
+      <workItem from="1726160124984" duration="2695000" />
+      <workItem from="1726162840173" duration="88000" />
+      <workItem from="1726162933390" duration="68000" />
+      <workItem from="1726163019259" duration="965000" />
+      <workItem from="1726229341490" duration="4375000" />
+      <workItem from="1726246293492" duration="655000" />
+      <workItem from="1727092082698" duration="11498000" />
+      <workItem from="1727357306526" duration="7712000" />
+      <workItem from="1728571748606" duration="1134000" />
+      <workItem from="1728573921169" duration="1815000" />
+      <workItem from="1728652569462" duration="639000" />
+      <workItem from="1728653381526" duration="5271000" />
+      <workItem from="1729527933866" duration="3596000" />
+      <workItem from="1729771618253" duration="8714000" />
+      <workItem from="1730732879762" duration="3856000" />
+      <workItem from="1730743362898" duration="37000" />
+      <workItem from="1730812922107" duration="4508000" />
+      <workItem from="1730982152640" duration="166000" />
+      <workItem from="1730988554773" duration="2000" />
+      <workItem from="1731072002132" duration="5032000" />
+      <workItem from="1731083049009" duration="5977000" />
+    </task>
+    <task id="LOCAL-00001" summary="hi">
+      <option name="closed" value="true" />
+      <created>1726163287842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726163287842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hi fixing files">
+      <option name="closed" value="true" />
+      <created>1728656046756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728656046756</updated>
+    </task>
+    <task id="LOCAL-00003" summary="starting my portfullio">
+      <option name="closed" value="true" />
+      <created>1730907513997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730907513997</updated>
+    </task>
+    <task id="LOCAL-00004" summary="starting my portfullio">
+      <option name="closed" value="true" />
+      <created>1731077845368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731077845368</updated>
+    </task>
+    <task id="LOCAL-00005" summary="starting my portfullio">
+      <option name="closed" value="true" />
+      <created>1731091562045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731091562045</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed files from tracking" />
+    <MESSAGE value="hi" />
+    <MESSAGE value="hi fixing files" />
+    <MESSAGE value="starting my portfullio" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting my portfullio" />
+  </component>
+</project>
