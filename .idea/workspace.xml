@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="starting my portfullio">
-      <change afterPath="$PROJECT_DIR$/2024-2025/classwork/HTML/Standard11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="adding Standard11.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +115,7 @@
       <workItem from="1731083049009" duration="5977000" />
       <workItem from="1733335354849" duration="1590000" />
       <workItem from="1733502698964" duration="51000" />
-      <workItem from="1733502814085" duration="937000" />
+      <workItem from="1733502814085" duration="1304000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
@@ -160,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731091562045</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding Standard11.html">
+      <option name="closed" value="true" />
+      <created>1733504113512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733504113512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +176,7 @@
     <MESSAGE value="hi" />
     <MESSAGE value="hi fixing files" />
     <MESSAGE value="starting my portfullio" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting my portfullio" />
+    <MESSAGE value="adding Standard11.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Standard11.html" />
   </component>
 </project>
