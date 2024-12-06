@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="starting my portfullio" />
+    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="starting my portfullio">
+      <change afterPath="$PROJECT_DIR$/2024-2025/classwork/HTML/Standard11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -113,6 +116,9 @@
       <workItem from="1730988554773" duration="2000" />
       <workItem from="1731072002132" duration="5032000" />
       <workItem from="1731083049009" duration="5977000" />
+      <workItem from="1733335354849" duration="1590000" />
+      <workItem from="1733502698964" duration="51000" />
+      <workItem from="1733502814085" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
