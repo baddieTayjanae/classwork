@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        document.addEventListener("DOMContentLoaded", (evt)=>{
+          const age=document.getElementById("age")
+            const check=document.getElementById("check")
+            const output=document.getElementById("TT")
+            check.addEventListener("click",(evt)=>{
+                let difference= 21 - Number.parseInt(age.value)
+                output.textContent="you are " + difference.toString() + " years from 21 "
+            })
+
+            
+        })
+    </script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<header>
+    <h1>javascript practice </h1>
+</header>
+<main>
+    <label for=age>Your Age?</label>
+    <input id="age" type="number">
+    <button id="check">check age </button>
+    <p id="TT"></p>
+
+</main>
+<footer>
+    By Tay
+</footer>
+
+</body>
+</html>

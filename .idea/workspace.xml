@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="adding Standard11.html" />
+    <list default="true" id="17528ca9-dcf5-49e3-83f9-3cf29151eeaa" name="Changes" comment="adding vocabulary pages">
+      <change afterPath="$PROJECT_DIR$/2024-2025/classwork/HTML/jspractice3-7-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-2025/classwork/HTML/jspratice3_25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-2025/classwork/HTML/week13/something.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024-2025/classwork/HTML/Standard11.html" beforeDir="false" afterPath="$PROJECT_DIR$/2024-2025/classwork/HTML/Standard11.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +42,10 @@
     &quot;accountId&quot;: &quot;3908ecf1-bbe3-41c4-9758-3da24f4630b0&quot;
   }
 }</component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,29 +54,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.csstest.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.vocab.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/367276/PhpstormProjects/classwork/.idea&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.csstest.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.something.html.executor": "Run",
+    "JavaScript Debug.vocab.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/367276/PhpstormProjects/classwork/.idea",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2024-2025/classwork/HTML" />
       <recent name="$PROJECT_DIR$/2024-2025/classwork/HTML/operations" />
       <recent name="$PROJECT_DIR$/2023-2024" />
       <recent name="$PROJECT_DIR$" />
@@ -75,8 +89,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
-        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PS-243.23654.168" />
+        <option value="bundled-php-predefined-a98d8de5180a-4c3855d0ab16-com.jetbrains.php.sharedIndexes-PS-243.23654.168" />
       </set>
     </attachedChunks>
   </component>
@@ -115,7 +129,18 @@
       <workItem from="1731083049009" duration="5977000" />
       <workItem from="1733335354849" duration="1590000" />
       <workItem from="1733502698964" duration="51000" />
-      <workItem from="1733502814085" duration="1304000" />
+      <workItem from="1733502814085" duration="4365000" />
+      <workItem from="1734715904504" duration="11000" />
+      <workItem from="1737134596458" duration="1683000" />
+      <workItem from="1738075904478" duration="15000" />
+      <workItem from="1738330218186" duration="5180000" />
+      <workItem from="1739387236702" duration="76000" />
+      <workItem from="1739541671245" duration="3882000" />
+      <workItem from="1741023229332" duration="3354000" />
+      <workItem from="1741027472153" duration="425000" />
+      <workItem from="1741110098143" duration="3237000" />
+      <workItem from="1742310907126" duration="33000" />
+      <workItem from="1742316335122" duration="2765000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <option name="closed" value="true" />
@@ -165,7 +190,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733504113512</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixing  Standard11.html">
+      <option name="closed" value="true" />
+      <created>1733504215633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733504215633</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding vocabulary pages">
+      <option name="closed" value="true" />
+      <created>1738341785268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738341785268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding vocabulary pages">
+      <option name="closed" value="true" />
+      <created>1739545118409</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739545118409</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +226,8 @@
     <MESSAGE value="hi fixing files" />
     <MESSAGE value="starting my portfullio" />
     <MESSAGE value="adding Standard11.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Standard11.html" />
+    <MESSAGE value="fixing  Standard11.html" />
+    <MESSAGE value="adding vocabulary pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding vocabulary pages" />
   </component>
 </project>
